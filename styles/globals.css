@@ -31,3 +31,12 @@ body {
     text-wrap: balance;
   }
 }
+
+*{
+  box-sizing: border-box;
+  
+}
+
+.span-click:hover{
+  cursor: pointer;
+}
